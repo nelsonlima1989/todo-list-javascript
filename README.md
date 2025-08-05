@@ -64,7 +64,7 @@ O código principal está contido em um arquivo JS, com funções organizadas pa
 
 1. Clone este repositório:
    
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/nelsonlima1989/todo-list-javascript.git
 
 2. Abra o arquivo index.html no navegador.
 
